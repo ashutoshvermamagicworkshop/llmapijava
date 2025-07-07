@@ -1,6 +1,8 @@
 # llmapijava
 LLM API Java
 
+## The Prompt Passed is to Summarize a Large Text into 15 or Less Words.
+
 # Libraries Used:
 - OkHttp (for all the low level code needed to send HTTP requets and recieve HTTP responses)
 - Jackson (for JSON parsing)
